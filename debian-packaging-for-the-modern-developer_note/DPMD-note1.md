@@ -10,6 +10,8 @@ https://www.debian.org/doc/manuals/maint-guide/dreq.zh-cn.html
 
 https://www.gnu.org/software/make/manual/html_node/
 
+https://github.com/phusion/debian-packaging-for-the-modern-developer/
+
 
 Control file fields
 ----------------------
